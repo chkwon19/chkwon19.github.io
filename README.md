@@ -1,2 +1,2 @@
-# chkwon19.github.io
-Audio Test
+**Audio Sample**
+(./synth12.wav) (./synth14.wav)
